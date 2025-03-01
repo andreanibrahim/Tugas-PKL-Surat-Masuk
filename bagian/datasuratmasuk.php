@@ -87,7 +87,7 @@ include "login/ceksession.php";
                           <select name="tahun" class="select2_single form-control" tabindex="-1">
                             <option>Pilih Tahun</option>
                             <?php
-                                for ($tahun=2017;$tahun<=2022;$tahun++)
+                                for ($tahun=2017;$tahun<=2025;$tahun++)
                                       {
                                        echo  '<option value="'.$tahun.'">'.$tahun.'</option>';
                                       }

@@ -80,7 +80,7 @@ include "login/ceksession.php";
                     <table id="datatable" class="table table-striped table-bordered">
                       <thead>
                         <tr>
-                          <th width="15%">Nama Rektor</th>
+                          <th width="15%">Nama Bagian</th>
                           <th width="10%">Username Admin</th>
                           <th width="15%">Nama</th>
                           <th width="10%">Tanggal Lahir</th>

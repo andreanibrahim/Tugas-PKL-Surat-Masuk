@@ -48,7 +48,7 @@ include "login/ceksession.php";
         <!-- /top navigation -->
 
         <!-- page content -->
-        <div class="right_col" role="main">
+         <div class="right_col" role="main">
           <div class="">
             <div class="page-title">
               <div class="title_right">
@@ -95,7 +95,7 @@ include "login/ceksession.php";
                           <select name="tahun" class="select2_single form-control" tabindex="-1">
                             <option>Pilih Tahun</option>
                             <?php
-                                for ($tahun=2017;$tahun<=2022;$tahun++)
+                                for ($tahun=2017;$tahun<=2025;$tahun++)
                                       {
                                        echo  '<option value="'.$tahun.'">'.$tahun.'</option>';
                                       }

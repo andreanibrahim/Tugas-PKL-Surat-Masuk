@@ -1,7 +1,7 @@
 <?php
 //koneksi ke database
 session_start();
-include "../../koneksi/koneksi.php";
+include "../../koneksi/koneksi.php"; 
 
 //validasi login admin
 $username	=	mysqli_real_escape_string($db,$_POST['username_admin']); 

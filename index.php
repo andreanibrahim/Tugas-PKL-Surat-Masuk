@@ -103,9 +103,9 @@ include "koneksi/ceksession.php";
           </div>
           <div class="col-md-3"></div>
           <div class="col-md-6 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
-            <figure>
+            <figure class="text-center">
               <img src="img/jmk.jpg" class="img-responsive">
-              <figcaption>
+              <figcaption class>
                   <h2>RAJU</h2>
                   <p>"Rekaya Perangkat Lunak"</p>
                   <p>"Never put off till tomorrow what you can do today"</p>
